@@ -1,4 +1,4 @@
 # valid_content_cell
 VBA macro usada para restringir inserção de valores não permitidos na célula da planilha .xlsm.
 
-# Desenvolvido por Marcelo Castanheira de Oliveira @2024
+Desenvolvido por Marcelo Castanheira de Oliveira @2024
